@@ -27,7 +27,7 @@ This project spans the entire Analytics Engineering stack, from data ingestion t
 * **Distributed Systems:** Utilizes a Master-Executor architecture via Node's native `worker_threads` to simulate distributed, parallel ingestion and cleaning of high-volume network logs.
 * **Database Systems:** Relational data storage using SQLite, serving dynamic API endpoints (`/api/traffic`, `/api/ingest`).
 * **Machine Learning & Agentic Approaches:** Implements time-series analysis using Z-Score statistical algorithms to flag predictive anomalies.
-  * Features an autonomous background agent that continuously evaluates database anomalies and triages them by severity.
+* Features an autonomous background agent that continuously evaluates database anomalies and triages them by severity.
 
 ## How to Run Locally
 
