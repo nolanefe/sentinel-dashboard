@@ -7,7 +7,7 @@ This full-stack dashboard is designed to cut through that noise. It handles the 
 ## Motivation & Business Impact
 In fast-paced, data-driven environments, raw data isn't enough; decision-makers need clear, reliable sources of truth. Sentinel was built with this product mindset. By abstracting away the complex database queries and statistical math, it empowers non-technical stakeholders to immediately understand the security posture of their network and take action based on clear visual evidence.
 
-## The Data Story
+## Analytical Framework
 Sentinel focuses on **data storytelling** by framing the analytics clearly:
 1. **The Baseline:** It establishes a clear visual baseline of normal network traffic using a sleek, dark-mode time-series chart.
 2. **The Anomaly:** It uses high-contrast, pre-attentive attributes (bright red markers) to immediately draw the user's eye to critical anomalies, such as massive spikes in payload sizes indicative of DDoS attacks.
